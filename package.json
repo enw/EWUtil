@@ -1,0 +1,23 @@
+{
+  "name": "EWUtil",
+  "version": "0.0.1",
+  "description": "EWUtil ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enw/EWUtil.git"
+  },
+  "keywords": [
+    "util",
+    "enw"
+  ],
+  "author": "Elliot Winard <enw@caveteen.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enw/EWUtil/issues"
+  },
+  "homepage": "https://github.com/enw/EWUtil"
+}
