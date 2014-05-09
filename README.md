@@ -1,4 +1,5 @@
 EWUtil
 ======
 
-somewhat random collection of JavaScript utility functions
+somewhat random (little) collection of JavaScript utility functions.
+you should probably use underscore instead.
