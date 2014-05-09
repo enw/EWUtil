@@ -3,7 +3,8 @@ module.exports = {
   list:list,
   multN: multN,
   filter: filter,
-  sum: sum
+  sum: sum,
+  map: map
 }
 */
 // generate multiplier function
